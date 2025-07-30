@@ -1,13 +1,4 @@
-/* Title : Hawassa University Daycare Management System:
-    Group Memebers             ID NO
-    Yeabkal Zenebe           NaScRR/0803/15
-    Yonatan Berihun          NaScR/3962/16
-    Milto  Workisa           NaScR/2990/16
-    Dagimawi Teferi          NaScR/1750/16
-    Firew Kassa              NaScR/5158/16
-    Eden Tesfaye             NaScR/1868/16
-    Lalistu Dagne            NaScR/2656/16
-                                           */
+
 #include <iostream>
 #include <limits>
 #include <string>
